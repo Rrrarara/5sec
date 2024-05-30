@@ -23,8 +23,8 @@
 
 `Heroku`
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryDemon/TGVid-Comp/)
-
+**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 ## Commands
 Add in [@BotFather](https://t.me/BotFather)
@@ -60,7 +60,7 @@ variables for indirectly deployment.
 - `BOT_TOKEN` - Bot token, {get it from [BotFather](t.me/BotFather).}
 
 ## Created By☆
-- `Snowball` 
+- `Shubham` 
 
 
 # Support Us By Joining Our Channels
