@@ -17,7 +17,7 @@ class Config(object):
     DB_NAME  = os.environ.get("DB_NAME","epicdatabase") 
 
     # Other Configs 
-    ADMIN = int(os.environ.get("ADMIN", "5574593875 1119579816 1735152469 6427494689 6610700592")) # ⚠️ Required
+    ADMIN = int(os.environ.get("ADMIN", "5574593875")) # ⚠️ Required
     LOG_CHANNEL = int(os.environ.get('LOG_CHANNEL', '-1002185866235')) # ⚠️ Required
     BOT_UPTIME = BOT_UPTIME  = time.time()
     START_PIC = os.environ.get("START_PIC", "https://graph.org/file/15e82d7e665eccc8bd9c5.jpg")
